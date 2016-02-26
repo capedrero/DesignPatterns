@@ -1,6 +1,5 @@
 package addFuncionality.proxy;
-/**
-Prueba git 3**/
+
 public class MensajeHTML implements IMensaje{
 
 	@Override
