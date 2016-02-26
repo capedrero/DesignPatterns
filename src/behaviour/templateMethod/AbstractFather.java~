@@ -1,7 +1,5 @@
 package behaviour.templateMethod;
 
-/**Cambio Git**/
-
 public abstract class AbstractFather {
 	/**
 	 * Este metodo sirve como plantilla para la ejecución particular de las hijas.
